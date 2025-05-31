@@ -1,4 +1,4 @@
 // config.js
 window.siteConfig = {
-  title: "info.jimzcc"
+  domain: "info.jimzcc"
 };
